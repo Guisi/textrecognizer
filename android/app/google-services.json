@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "275312953761",
+    "firebase_url": "https://fir-guisi.firebaseio.com",
+    "project_id": "fir-guisi",
+    "storage_bucket": "fir-guisi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275312953761:android:c10c68ff98d9b42e",
+        "android_client_info": {
+          "package_name": "com.stefanblos.businesscardmailextractor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275312953761-o15uflorul9bbkdtp31tdrl4b860phpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeYA4Vs3-5T939Rm3s0Qwk1L_toL5oHco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275312953761-o15uflorul9bbkdtp31tdrl4b860phpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
